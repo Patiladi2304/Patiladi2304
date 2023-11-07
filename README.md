@@ -28,7 +28,7 @@ I am a QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aditya Patil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-patil-0898001ba)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aditya Patil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-patil-0898001ba/)
 ----
 
 ### :hammer_and_wrench: Languages and Tools :
