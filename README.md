@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" wid100>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/aditya-patil-0898001ba">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -28,7 +28,7 @@ I am a QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mukesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-maurya-501380224/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aditya Patil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-patil-0898001ba)
 ----
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -41,7 +41,7 @@ I am a QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
 </div>
 <hr/>
 
